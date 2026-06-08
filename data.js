@@ -2184,7 +2184,8 @@ window.ANIME_DATA = [
     streaming: ["Crunchyroll"],
     awards: [],
     relatedWorks: [],
-    accent: 18
+    accent: 18,
+    collections: ["underrated"]
   },
   {
     id: "case-study-of-vanitas",
@@ -2212,7 +2213,8 @@ window.ANIME_DATA = [
     streaming: ["Crunchyroll", "Funimation"],
     awards: [],
     relatedWorks: ["Pandora Hearts"],
-    accent: 268
+    accent: 268,
+    collections: ["underrated"]
   },
   {
     id: "serial-experiments-lain",
@@ -2239,7 +2241,8 @@ window.ANIME_DATA = [
     streaming: ["Funimation"],
     awards: ["Excellence Prize · Japan Media Arts Festival (1998)"],
     relatedWorks: [],
-    accent: 300
+    accent: 300,
+    collections: ["underrated"]
   },
   {
     id: "perfect-blue",
@@ -2292,7 +2295,8 @@ window.ANIME_DATA = [
     streaming: ["Not currently streaming"],
     awards: ["Venice Film Festival Competition (2006)"],
     relatedWorks: ["Perfect Blue (1997)", "Paranoia Agent (2004)"],
-    accent: 350
+    accent: 350,
+    collections: ["underrated"]
   },
   {
     id: "terror-in-resonance",
@@ -2319,7 +2323,8 @@ window.ANIME_DATA = [
     streaming: ["Crunchyroll", "Funimation"],
     awards: [],
     relatedWorks: ["Cowboy Bebop", "Samurai Champloo"],
-    accent: 195
+    accent: 195,
+    collections: ["underrated"]
   }
 ];
 
